@@ -1,0 +1,15 @@
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\BLL.dll.config
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\BLL.dll
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\BLL.pdb
+E:\AIUB\.NET\Employee_Management\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\AIUB\.NET\Employee_Management\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\AIUB\.NET\Employee_Management\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\AIUB\.NET\Employee_Management\BLL\obj\Debug\BLL.dll
+E:\AIUB\.NET\Employee_Management\BLL\obj\Debug\BLL.pdb
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\AutoMapper.dll
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\DAL.dll
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\DAL.pdb
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\DAL.dll.config
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\AutoMapper.xml
+E:\AIUB\.NET\Employee_Management\BLL\bin\Debug\EntityFramework.xml
