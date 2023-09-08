@@ -1,0 +1,15 @@
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\DAL.dll.config
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\DAL.dll
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\DAL.pdb
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\.NET\Employee_Management\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.dll
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.pdb
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.Migrations.allTablesCreated.resources
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\AIUB\.NET\Employee_Management\DAL\obj\Debug\DAL.Migrations.authModelCreated.resources
